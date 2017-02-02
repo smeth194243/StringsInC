@@ -8,9 +8,13 @@
 
 #include <iostream>
 
+using namespace std;
+
 int main()
 {
     // insert code here...
-    std::cout << "Hello, World!\n";
+    std::cout << "This message does NOT say 'Hello World'.\n";
     return 0;
+    
+    int [8]
 }
