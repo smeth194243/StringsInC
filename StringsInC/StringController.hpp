@@ -19,6 +19,13 @@ private:
     string derpness;
     string differentWords;
     void numberMethods();
+    void length();
+    void useBrackets();
+    void atInt();
+    void empty();
+    void substringWithEnd();
+    void substringWithStart();
+    void compareString();
 public:
     StringController();
     void start();
